@@ -5,9 +5,9 @@ timezone Cookbook
 ## Quick start
 
 ```
-cd /path/to/site-cookbooks
-git clone https://kagura.cygames.jp/kimura-ryusuke/chef-timezone.git
-mv /path/to/site-cookbooks/chef-timezone /path/to/site-cookbooks/timezone 
+cd /path/to/cookbooks
+git clone https://github.com/ryurock/chef-timezone.git
+mv /path/to/cookbooks/chef-timezone /path/to/cookbooks/timezone 
 ```
 
 Requirements
